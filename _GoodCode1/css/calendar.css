@@ -1,0 +1,39 @@
+    .box
+        {
+        background-color: #fff;
+        margin-top: 5px;
+        #margin-bottom: 50px;
+        #margin-right:325px;
+        #margin-left:325px;
+        width:700px; 
+        height:500px;
+        font-size: 25px;
+        border-radius: 10px;
+        box-shadow: 10px 10px 20px #373737;
+    }
+    .b{font-weight: bold;}
+
+    body{background-color: lightgray;}
+
+    label{
+        font-weight: bold;
+        display:block;
+        -webkit-transform: rotate(-70deg);
+        -moz-transform: rotate(-70deg);  
+        -ms-transform: rotate(-70deg);        
+    }
+
+    td {
+        vertical-align: top; 
+        text-align: top;
+        #font-weight: bold;
+    }
+
+    header {
+        background-color:#7092BE;
+        height:90px;
+    }
+    footer {
+        background-color:#C5D2E4;
+        height:20px;
+    }
